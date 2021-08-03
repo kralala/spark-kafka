@@ -1,2 +1,7 @@
-*.class
-*.log
+shelf
+workspace.xml
+httpRequests
+dataSources
+dataSources.local.xml
+target
+.idea
